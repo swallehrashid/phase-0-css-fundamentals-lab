@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aqua;
+}
+
+/* #featured-property {
+  text-align: center;
+  
+} */
+
+#featured-property p {
+  font-size: 15px;
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: flex;
+  justify-content: space-around;
+  background-color: orangered;
+}
